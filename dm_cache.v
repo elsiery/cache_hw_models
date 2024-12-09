@@ -33,18 +33,18 @@ input [`ADDRESS_WIDTH-1:0] i_cpu_address;
 output o_cpu_ready;
 input [`WRITE_DATA-1:0] i_cpu_write_data;
 input [`WRITE_STROBE-1:0] i_cpu_write_strobe;
-ouput [`WRITE_DATA-1:0] o_cpu_read_data;
-ouput o_cpu_read_valid;
+output [`WRITE_DATA-1:0] o_cpu_read_data;
+output o_cpu_read_valid;
 input i_cpu_read_ready;
 
-ouput o_mem_valid;
-ouput o_mem_rd_wr;
-ouput [`ADDRESS_WIDTH-1:0] o_mem_address;
+output o_mem_valid;
+output o_mem_rd_wr;
+output [`ADDRESS_WIDTH-1:0] o_mem_address;
 input i_mem_ready;
-ouput [`WRITE_DATA-1:0] o_mem_write_data;
-ouput [`WRITE_STROBE-1:0] o_mem_write_strobe;
+output [`WRITE_DATA-1:0] o_mem_write_data;
+output [`WRITE_STROBE-1:0] o_mem_write_strobe;
 input [`WRITE_DATA-1:0] i_mem_read_data;
 input i_mem_read_valid;
-ouput o_mem_read_ready;
+output o_mem_read_ready;
 
 
