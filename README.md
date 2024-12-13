@@ -1,15 +1,9 @@
-# cache_simulator
+# cache_hw_models
 
 
-* This repo contains implementation of 5 types of caches.
+* This repo contains implementation of 4 types of caches.
 
-* Direct-mapped, 2 way associative, 4 way associative, 8 way associative and fully associative caches.
+* Direct-mapped, 2 way associative, 4 way associative and 8 way associative.
 
-* The option for "write-through" or "write- back" is provided.
-
-* The option for "write-allocate" or "write-no allocate" is provided.
-
-* The option for "LRU"or "FIFO" or "Psuedo LRU" is provided.
-
-* The cache is implemented in verilog hdl and has been verified.
+* "dm_cache" folder contains 64KB, Direct-Mapped, Write-Allocate and Write-Back Cache.
 
