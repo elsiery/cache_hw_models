@@ -7,3 +7,4 @@
 * The design is tested with 102400 transactions.
 * The address and data for those transactions are generated and kept in file "block"
 * All the features are verified and reports are featured too.
+* The design is lint error free and synthesizable. 
