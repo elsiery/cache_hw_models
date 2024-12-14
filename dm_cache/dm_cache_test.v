@@ -83,9 +83,9 @@ end
 
 initial  
 begin 
-    $readmemh("/home/elsiery/github_codes/cache_models_hw/dm_cache/vmod/block", test_vector);
-    finalresult = $fopen("/home/elsiery/github_codes/cache_models_hw/dm_cache/vmod/final_result.txt");
-    detailedresult = $fopen("/home/elsiery/github_codes/cache_models_hw/dm_cache/vmod/detailed_result.txt");
+    $readmemh("block", test_vector);
+    finalresult = $fopen("final_result.txt");
+    detailedresult = $fopen("detailed_result.txt");
 end
 
 
