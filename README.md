@@ -7,3 +7,5 @@
 
 * "dm_cache" folder contains 64KB, Direct-Mapped, Write-Allocate and Write-Back Cache.
 
+* "tw_associative" folder contains 64KB, Two-Way Associative, Write-Allocate, Write-Back Cache with LRU Replacement Policy.
+
