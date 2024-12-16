@@ -1,0 +1,5 @@
+write_hits=       2048,write_fails=          0,read_hits=       3072,read_miss=          0,busy_for_out_rd=       2048
+busy_for_out_wr=       1024
+cache_1_hit=       1280,cache_1_miss=          0,cache_2_hit=       1280,cache_2_miss=          0
+cache_3_hit=       1280,cache_3_miss=          0,cache_4_hit=       1280,cache_4_miss=          0,counter_pass=       1024,counter_fail=          0
+
