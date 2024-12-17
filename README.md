@@ -1,9 +1,8 @@
 # cache_hw_models
 
+* This repo contains implementation of 4 types of caches implemented and verified in Verilog HDL. 
 
-* This repo contains implementation of 4 types of caches.
-
-* Direct-mapped, 2 way associative, 4 way associative and 8 way associative.
+* Direct-mapped, 2 way associative, 4 way associative.
 
 * "dm_cache" folder contains Direct-Mapped, Write-Allocate and Write-Back Cache.
 
