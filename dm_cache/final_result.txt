@@ -1,0 +1,2 @@
+write_hits=      51200,write_fails=          0,read_hits=      51200,read_miss=          0,busy_for_out_rd=      51200,busy_for_out_wr=      51200
+
