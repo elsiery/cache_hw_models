@@ -19,7 +19,7 @@
     > gtkwave
     
 ### Lint
-    > verilater
+    > verilator
 
 
     
