@@ -4,7 +4,7 @@
 * Each block has additional bits for 'tag_bits', 'valid bit' and a 'dirty bit'.
 * It is a 'Write-Allocate' and 'Write-Back' Cache with 'LRU Replacement policy'
 * The design file is 'fw_associative.v', testbench is 'fw_associative_test.v'
-* The design is tested with 10000 transactions.
+* The design is tested with 5000 transactions.
 * The address and data for those transactions are generated and kept in file "block"
 * All the features are verified and reports are featured too.
 * The design is lint error free. 
