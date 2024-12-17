@@ -1,6 +1,6 @@
 # cache_hw_models
 
-* This repo contains implementation of 4 types of caches implemented and verified in Verilog HDL. 
+* This repo contains implementation of 3 types of caches implemented and verified in Verilog HDL. 
 
 * Direct-mapped, 2 way associative, 4 way associative.
 
