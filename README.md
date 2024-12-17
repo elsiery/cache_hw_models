@@ -9,3 +9,18 @@
 * "tw_associative" folder contains Two-Way Associative, Write-Allocate, Write-Back Cache with LRU Replacement Policy.
 
 * "fw_associative" folder contains Four-Way Associative, Write-Allocate, Write-Back Cache with LRU Replacement Policy.
+  
+## tools used
+
+### for verilog simulation and testing
+    > Icarus Verilog
+
+### Debug
+    > gtkwave
+    
+### Lint
+    > verilater
+
+
+    
+
